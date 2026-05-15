@@ -1,0 +1,5 @@
+outs:
+- md5: 8cda1c9f34912ec81e4cbe4d0eee6fe4
+  size: 313571
+  hash: md5
+  path: b2b_credit_data.csv
